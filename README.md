@@ -1,4 +1,4 @@
-# 📌# secretDiary
+# 📌secretDiary
 >간단한 비밀일기장
 
 ## ✔기능
